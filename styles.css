@@ -143,3 +143,13 @@ p {
     color: white;
     font-weight: bold;
 }
+
+footer {
+    background-color: #1f2937;
+    color: whitesmoke;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+    padding: 32px;
+    
+}
